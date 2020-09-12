@@ -30,6 +30,7 @@ public class Test {
 			add(new ArrayList<Integer>());
 			add(new ArrayList<Integer>());
 		}};
+		int x=10;
 
 
 /*		SqlSessionFactoryBean*/
